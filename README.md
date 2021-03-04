@@ -1,2 +1,1 @@
-# tareea01
-tarea
+# Tarea_Curso
